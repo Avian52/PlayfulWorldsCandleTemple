@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playful Worlds Temple.Plugins", "Playful Worlds Temple.Plugins.csproj", "{0D011269-F2A8-B979-47B7-109EFDD8081A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playful Worlds Temple", "Playful Worlds Temple.csproj", "{5D6A9628-B217-0EB8-1931-8B84545B1063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playful Worlds Temple.Editor.Plugins", "Playful Worlds Temple.Editor.Plugins.csproj", "{1AD1D902-F625-E402-9142-DF2E5691F63F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D011269-F2A8-B979-47B7-109EFDD8081A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D011269-F2A8-B979-47B7-109EFDD8081A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D011269-F2A8-B979-47B7-109EFDD8081A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D011269-F2A8-B979-47B7-109EFDD8081A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6A9628-B217-0EB8-1931-8B84545B1063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6A9628-B217-0EB8-1931-8B84545B1063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6A9628-B217-0EB8-1931-8B84545B1063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6A9628-B217-0EB8-1931-8B84545B1063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD1D902-F625-E402-9142-DF2E5691F63F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD1D902-F625-E402-9142-DF2E5691F63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD1D902-F625-E402-9142-DF2E5691F63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD1D902-F625-E402-9142-DF2E5691F63F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
